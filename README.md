@@ -35,17 +35,25 @@ Surge 规则
 * 其他的不多BB,好不好用自己试试;
 ```
 
-
+### 规则区分
 
 `iOS.conf`
 
 [全能规则]
-
 包含黑白名单，适配所有机型;
-复制党你好
+
+
 
 `iOS_S.conf`
 
 [精简规则]
-
 包含白名单,节省内存占用适配越狱机型；
+
+
+### 安装教程
+
+精简规则
+https://raw.githubusercontent.com/tudi1909/Surge_rules/master/iOS_S.conf
+
+全能规则
+https://raw.githubusercontent.com/tudi1909/Surge_rules/master/iOS.conf
