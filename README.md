@@ -50,10 +50,25 @@ Surge 规则
 包含白名单,节省内存占用适配越狱机型；
 
 
-### 安装教程
+### 使用教程
+
+###### 1.将下方链接复制后贴入Surge连接中即可
 
 精简规则
+```sh
 https://raw.githubusercontent.com/tudi1909/Surge_rules/master/iOS_S.conf
+```
+
 
 全能规则
+```sh
 https://raw.githubusercontent.com/tudi1909/Surge_rules/master/iOS.conf
+```
+
+###### 2.配置线路
+如果是日常的HTTP,HTTPS,SS5的线路自己按照选项填写即可，下方针对SS来进行配置说明
+
+线路名称 = custom,服务器IP或者域名,对应端口,对应密码类型,密码,Surge module地址(可以使用我提供的模块！)
+🇰🇷 KR-SERVER = custom,yeshigeek.com,12345,rc4-md5,password,https://cdn.qingjie.me:443/surge/ss.module
+
+###### 3.开启！
