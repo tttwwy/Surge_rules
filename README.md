@@ -5,7 +5,7 @@ Surge 规则
 对adbyby、ADM、PHP开发（任意其一）熟悉的大佬各路大神朋友可以联系下，想后续针对youku,letv广告进行去除！
 对Discuz、Woredpress二次开发的朋友可以联系下，weibo:@dbgeek
 
-# 重要声明
+## 重要声明
 此次的app启动广告确实费了很大精力,请尊重作者辛苦制作,不接受用来做商业盈利!
 同时请您在转载修改时标注作者并说明出处并附带网址，如发现其他规则有此次更新内容，没有标明出处的，规则今后将不做发布!
 
@@ -74,7 +74,9 @@ https://raw.githubusercontent.com/tudi1909/Surge_rules/master/iOS.conf
 🇰🇷 KR-SERVER = custom,yeshigeek.com,12345,rc4-md5,password,https://cdn.qingjie.me:443/surge/ss.module
 ```
 
-
-
-
 ###### 3.开启！
+
+
+## 捐赠
+  感谢各位使用，由于后期的抓包和去广告更耗时耗力，望各位多多请喝茶！
+  
