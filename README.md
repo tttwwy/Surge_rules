@@ -69,6 +69,11 @@ https://raw.githubusercontent.com/tudi1909/Surge_rules/master/iOS.conf
 
 ###### 3.开启！
 
+###### 怎样开通MITM?
+下载小视频,即可学会
+```sh
+https://raw.githubusercontent.com/tudi1909/Surge_rules/master/IMG_0094.MP4
+```
 
 ## 捐赠
   感谢各位使用，由于后期的抓包和去广告更耗时耗力，欢迎各位多多请喝茶！
