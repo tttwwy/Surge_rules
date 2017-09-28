@@ -58,6 +58,11 @@ https://raw.githubusercontent.com/tudi1909/Surge_rules/master/iOS_S.conf
 https://raw.githubusercontent.com/tudi1909/Surge_rules/master/iOS.conf
 ```
 
+回国规则
+```sh
+https://raw.githubusercontent.com/tudi1909/Surge_rules/master/iOS_S_China.conf
+```
+
 ###### 2.配置线路
 
 如果是日常的HTTP,HTTPS,SS5的线路自己按照选项填写即可，下方针对SS来进行配置说明
